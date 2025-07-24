@@ -25,12 +25,13 @@
   a Response.
 * 2 common platform independent communication formats are JSON and XML
 
-
+```
 Consumer -----------------------------------> Web Service
          input: JSON/XML (Request)
 
          <-----------------------------------
          output: JSON/XML (Response)
+```
 
 * Web Service Provider (Server) -> Entity that provides the web service.
 * Web Service Consumer -> Entity that consumes a web service.
