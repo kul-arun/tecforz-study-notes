@@ -124,7 +124,7 @@ public class CurrencyServiceConfiguration {
 * Spring is all about dependency injection. Define the dependencies via Spring annotations like @Component, identify them using component scan, then inject them via @Autowired.
 * Spring modules and spring projects extend the spring ecosystem. They provide good integration with other frameworks like Hibernate/JPA, JUnit, etc.
 
-* Spring MVC is a Spring module. It simplifies the bvilding of web apps and REST APIs.
+* Spring MVC is a Spring module. It simplifies the building of web apps and REST APIs.
 * Annotations like @Controller, @RestController, @RequestMapping, etc are provided by it.
 
 * Even to build a simple app, a lot of configuration is required when we use Spring and Spring MVC. Spring Boot is a Spring Project that helps with this, We can build production-ready apps quickly using Spring Boot
